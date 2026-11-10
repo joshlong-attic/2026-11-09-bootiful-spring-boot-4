@@ -4,7 +4,6 @@ import com.example.adoptions.dogs.DogAdoptedEvent;
 import org.springframework.modulith.events.ApplicationModuleListener;
 import org.springframework.stereotype.Service;
 
-
 @Service
 class Dogtor {
 
